@@ -1,0 +1,10 @@
+[project]
+name = "proj"
+version = "0.1.0"
+dependencies = [
+    "langchain",
+    "langchain-community",
+    "unstructured",
+    "chromadb",
+    "langchain-openai>=0.3.27",
+]
