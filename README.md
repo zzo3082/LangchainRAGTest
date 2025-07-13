@@ -16,7 +16,7 @@ chroma/                    # Chroma VectorDB 資料夾
     ...
 data/
     books/
-        漫步华尔街的10条投资金律(vikingcabin.com).pdf
+        自定義的檔案.pdf
         customer_info.md
 ```
 
